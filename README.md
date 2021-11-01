@@ -8,7 +8,6 @@
 - 📫 How to reach me: [LinkedIn - @lemonkazi](https://www.linkedin.com/in/lemonkazi/) , [Stack Overflow - @lemonkazi](https://stackoverflow.com/users/2641347/lemon-kazi)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I heard songs ! But, With coding :p 
--->
  
 
 <img src="https://github-readme-stats.vercel.app/api?username=lemonkazi&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
