@@ -1,7 +1,7 @@
 ### Hi , This is Kazi Abdullah Al Mamun👋
 
 
-- 🔭 I’m currently working at Oceanize Inc. as a Full Stack Developer
+- 🔭 I’m currently working at [Oceanize Inc.][Oceanize Inc]! as a Full Stack Developer
 - 🌱 I’m currently learning node.js
 - 👯 I’m looking to collaborate opensource
 - 💬 Ask me about Any Tech Related to Web application
@@ -17,3 +17,5 @@
 
 [![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=lemonkazi&card_width=550)](https://github.com/lemonkazi/lemonkazi)
 
+
+[Oceanize Inc]: https://oceanize.co.jp/
