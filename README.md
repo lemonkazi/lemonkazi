@@ -3,9 +3,10 @@
 
 - 🔭 I’m currently working at [Oceanize Inc.][Oceanize Inc]! as a Full Stack Developer
 - 🌱 I’m currently learning node.js
+-  🌱 Seeking to improve my skills and eager of learning cool stuff daily !
 - 👯 I’m looking to collaborate opensource
 - 💬 Ask me about Any Tech Related to Web application
-- ⚡ Fun fact: I heard songs ! But, With coding :p 
+- ⚡ Fun fact: I hear songs ! But, With coding :p 
  
  ### Connect with me 
 
