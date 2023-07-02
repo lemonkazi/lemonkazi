@@ -18,9 +18,6 @@
 
 [![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=lemonkazi&card_width=550)](https://github.com/lemonkazi/lemonkazi)
 
----
-
-![Snake](https://github.com/lemonkazi/blob/snake/github-contribution-grid-snake.svg?raw=true)
 
 ## 💼 Skills
 ![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=gatsby&logoColor=white&color=4AB197)
