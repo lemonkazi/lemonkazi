@@ -20,7 +20,7 @@
 
 ---
 
-![Snake](https://github.com/lemonkazi/lemonkazi/blob/snake/github-contribution-grid-snake.svg?raw=true)
+![Snake](https://github.com/lemonkazi/blob/snake/github-contribution-grid-snake.svg?raw=true)
 
 ## 💼 Skills
 ![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=gatsby&logoColor=white&color=4AB197)
