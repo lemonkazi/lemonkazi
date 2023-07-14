@@ -13,14 +13,13 @@
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/lemonkazi/) 
 [![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://web.facebook.com/Lemonkaz1) 
 [![Questions](https://img.shields.io/badge/%20-Questions-black?color=14171A&labelColor=fff&logo=stackoverflow&logoColor=0c0d0e26)](https://stackoverflow.com/users/2641347/lemon-kazi)
+---
+
+![Snake](https://github.com/lemonkazi/lemonkazi/blob/snake/github-contribution-grid-snake.svg?raw=true)
 
 <!-- [![Kazi Mamun Github Stats](https://github-readme-stats.vercel.app/api?username=lemonkazi&show_icons=true)](https://github.com/lemonkazi/lemonkazi) -->
 
 [![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=lemonkazi&card_width=550)](https://github.com/lemonkazi/lemonkazi)
-
----
-
-![Snake](https://github.com/lemonkazi/lemonkazi/blob/snake/github-contribution-grid-snake.svg?raw=true)
 
 ## 💼 Skills
 ![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=gatsby&logoColor=white&color=4AB197)
