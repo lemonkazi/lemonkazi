@@ -2,7 +2,8 @@
 
 
 - 🔭 I’m currently working remotely at [Oceanize Inc.][Oceanize Inc]! as a Full Stack Developer
-- 🌱 I’m currently learning node.js
+- 🌱 My current tech stack includes PHP, React.js, Three.js, JavaScript
+- 🌱 Currently assimilating Next.js, Node.js
 -  🌱 Seeking to improve my skills and eager of learning cool stuff daily !
 - 👯 I’m looking to collaborate opensource
 - 💬 Ask me about Any Tech Related to Web application
