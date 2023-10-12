@@ -1,7 +1,7 @@
 ### Hi , This is Kazi Abdullah Al Mamun👋
 
 
-- 🔭 I’m currently working at [Oceanize Inc.][Oceanize Inc]! as a Full Stack Developer
+- 🔭 I’m currently working remotely at [Oceanize Inc.][Oceanize Inc]! as a Full Stack Developer
 - 🌱 I’m currently learning node.js
 -  🌱 Seeking to improve my skills and eager of learning cool stuff daily !
 - 👯 I’m looking to collaborate opensource
