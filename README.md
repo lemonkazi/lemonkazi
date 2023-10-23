@@ -19,6 +19,10 @@
 ![Snake](https://github.com/lemonkazi/lemonkazi/blob/snake/github-contribution-grid-snake.svg?raw=true)
 
 <!-- [![Kazi Mamun Github Stats](https://github-readme-stats.vercel.app/api?username=lemonkazi&show_icons=true)](https://github.com/lemonkazi/lemonkazi) -->
+---
+[![](https://visitcount.itsvg.in/api?id=lemonkazi&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 [![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=lemonkazi&card_width=550)](https://github.com/lemonkazi/lemonkazi)
 
