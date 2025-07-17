@@ -2,7 +2,7 @@
     <h1>Welcome abord my <code>space station</code> 🛰️👨‍🚀</h1>
 </div>
 
-- 🔭 I’m currently working remotely at [KJ commons Co., Ltd.][KJ commons Co., Ltd.]! as a Full Stack Developer
+- 🔭 I’m currently working at [Adventure Dhaka Ltd.][Adventure Dhaka Ltd..]! as Senior Software Engineer (Tech Lead)
 - 🌱 My current tech stack includes PHP, React.js, Three.js, JavaScript
 - 🌱 Currently assimilating Next.js, Node.js
 -  🌱 Seeking to improve my skills and eager of learning cool stuff daily !
@@ -54,4 +54,4 @@
 
 
 
-[KJ commons Co., Ltd.]: https://kjcommons.com/en
+[Adventure Dhaka Ltd.]: https://jp.adventurekk.com/
