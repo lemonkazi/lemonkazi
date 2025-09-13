@@ -3,8 +3,8 @@
 </div>
 
 - 🔭 I’m currently working at [Adventure Dhaka Ltd.][Adventure Dhaka Ltd.]! as Senior Software Engineer (Tech Lead)
-- 🌱 My current tech stack includes PHP, React.js, Three.js, JavaScript
-- 🌱 Currently assimilating Next.js, Node.js
+- 🌱 My current tech stack includes PHP, React.js, Three.js, Next.js, Node.js
+- 🌱 Currently assimilating python, AI Agent
 -  🌱 Seeking to improve my skills and eager of learning cool stuff daily !
 - 👯 I’m looking to collaborate opensource
 - 💬 Ask me about Any Tech Related to Web application
